@@ -1,0 +1,1 @@
+v8 — com swipe real, botões corrigidos e exportação XLSX via seu modelo.
